@@ -12,7 +12,7 @@ public class BlackJack {
     // New instance of the Scanner object
     Scanner in = new Scanner(System.in);
 
-    // Welcome message
+    // Welcome message;
     System.out.println("Hello, let's play some BlackJack!");
 
     do {
